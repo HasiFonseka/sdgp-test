@@ -1,6 +1,6 @@
 # sdgp-test
 
-our awesome sdgp project 
+our awesome sdgp project has one functionality login functinoality
 
 ##SDGP API Reference
 
